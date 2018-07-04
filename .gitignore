@@ -12,3 +12,6 @@ composer.phar
 .idea
 *.iml
 config.php
+.kobalt
+api/
+client/
