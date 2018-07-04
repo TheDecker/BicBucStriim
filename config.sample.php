@@ -1,3 +1,4 @@
+<?php
 $fallbackLang = 'en';
 $appname = 'BicBucStriim';
 $appmode = 'development';
